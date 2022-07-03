@@ -3,7 +3,6 @@
 <p> I am a Tech enthusiast </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&layout=compact)](https://github.com/TPriince/github-readme-stats) 
-![TPriince's GitHub stats](https://github-readme-stats.vercel.app/api?username=TPriince&theme=dark&show_icons=true?theme=great_gatsby)
 
 ### Skills
 <p align="left">
@@ -14,9 +13,3 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TPriince&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=TPriince)
