@@ -15,3 +15,8 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TPriince&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=TPriince)
