@@ -2,7 +2,7 @@
 
 <p> I am a Tech enthusiast </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&layout=compact)](https://github.com/TPriince/github-readme-stats) ![TPriince's GitHub stats](https://github-readme-stats.vercel.app/api?username=TPriince&theme=code_STARKricons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&layout=compact)](https://github.com/TPriince/github-readme-stats) ![TPriince's GitHub stats](https://github-readme-stats.vercel.app/api?username=TPriince&theme=code_STARKr&show_icons=true)
 
 ### Skills
 <p align="left">
