@@ -5,12 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&layout=compact)](https://github.com/TPriince/github-readme-stats) 
 
 ### Currently learnimg:
-<ul>
-  <li>C</li>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+#### C
+
  </ul>
 ### Skills
 <p align="left">
