@@ -4,6 +4,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&layout=compact)](https://github.com/TPriince/github-readme-stats) 
 
+### Currently learnimg:
+<ul>
+  <li>C</li>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+ </ul>
 ### Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
