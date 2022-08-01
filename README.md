@@ -2,7 +2,7 @@
 
 <h3 align="center"> I am a Tech enthusiast </h3> 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&hide=html&layout=compact&theme=highcontrast" />
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&hide=html&layout=compact&theme=highcontrast" />
 
 ### Skills
 <p align="left">
