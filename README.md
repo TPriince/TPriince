@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Priince <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-<h3 align="center"> I am a Tech enthusiast </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&layout=compact)](https://github.com/TPriince/github-readme-stats) 
+<h3 align="center"> I am a Tech enthusiast </h3> 
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&hide=html&layout=compact&theme=highcontrast" />
 
