@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tobiloba+Odukoya;+Welcome+to+My+Profile!;You+can+also+call+me+Priince;Always+learning+new+things+;I+am+a+Tech+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+there+👋,+I+am+Tobiloba+Odukoya;You+can+also+call+me+Priince;+Welcome+to+my+GitHub+profile!;I+am+a+Tech+enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 <h1 align="center">Hello! I'm Priince <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
