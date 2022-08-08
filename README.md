@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-tobilobaodukoya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobiloba-odukoya-a87713183)](https://www.linkedin.com/in/tobiloba-odukoya-a87713183)
 [![Twitter Badge](https://img.shields.io/badge/-@T_Priincee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/T_Priincee)](https://twitter.com/T_Priincee)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TPriince&show_icons=true&include_all_commits=true&hide_border=true" alt="TPriince's GitHub stats" />
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&hide=html&layout=compact&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api?username=TPriince&show_icons=true&include_all_commits=true&hide_border=true" alt="TPriince's GitHub stats" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPriince&hide=html&layout=compact&theme=highcontrast" />
 
 ### Skills
 <p align="left">
